@@ -11,16 +11,20 @@ title: Erik Johannes Husom CV
 |
 +47 41670083
 |
- <a href="http://github.com/ejhusom">github.com/ejhusom</a>
-</div>
-
-<div id="info">
+ <a href="http://erikjohannes.no/work.html">erikjohannes.no/work</a>
+|
 Lebergsbakkan 157, 7232 Lundamo, Norge
-<!-- Folldalsvegen 2476, 2580 Folldal, Norge -->
-<!-- Skogveien 20, 1433 Ås, Norge -->
 |
 18.09.1995
 </div>
+
+<!-- <div id="info"> -->
+<!-- Lebergsbakkan 157, 7232 Lundamo, Norge -->
+<!-- <1!-- Folldalsvegen 2476, 2580 Folldal, Norge --1> -->
+<!-- <1!-- Skogveien 20, 1433 Ås, Norge --1> -->
+<!-- | -->
+<!-- 18.09.1995 -->
+<!-- </div> -->
 
 <!--Jeg er en masterstudent på programmet *Computational Science: Physics* ved UiO,
 og har en spesiell interesse for maskinlæring og numerisk modellering og simulering.-->
