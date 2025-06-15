@@ -33,7 +33,12 @@ Green, trustworthy, and explainable AI.
 <!-- ## Work experience -->
 ## Experience
 
-`2021/06 -`
+`2024/06 - `
+**Research Scientist at SINTEF Digital**. Researcher in the Trustworthy Green
+IoT Software research group at the Sustainable Communication Technologies
+department. Working with AI engineering, applied machine learning, trustworthy AI, data science, machine learning pipelines and deployment. Project leader and Green AI task leader for ENFIELD (Horizon Europe).
+
+`2021/06 - 2024/06`
 **Master of Science at SINTEF Digital**. Researcher in the Trustworthy Green
 IoT Software research group at the Sustainable Communication Technologies
 department. Working with AI engineering, applied machine learning, trustworthy AI, data science, machine learning pipelines and deployment.
