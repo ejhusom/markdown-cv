@@ -128,7 +128,7 @@ High school: Kristen Videregående skole i Trøndelag, Trondheim. Average grade:
 **Erik Johannes Husom**, Sagar Sen, Arda Goknil: *Engineering Carbon Emissions Aware Machine Learning Pipelines*. 2024 IEEE/ACM 3rd International Conference on AI Engineering–Software Engineering for AI (CAIN). Conference paper.
 
 `2023/11`
-**Erik Johannes Husom**, Arda Goknil, Simeon Tverdal, Sagar Sen, Phu Nguyen: *[Automated Behavior Labeling for IIoT Data*. The 13th International Conference on the Internet of Things (IoT 2023). Conference paper.
+**Erik Johannes Husom**, Arda Goknil, Simeon Tverdal, Sagar Sen, Phu Nguyen: *Automated Behavior Labeling for IIoT Data*. The 13th International Conference on the Internet of Things (IoT 2023). Conference paper.
 
 `2023/11`
 **Erik Johannes Husom**, Sagar Sen, Arda Goknil, Simeon Tverdal, Phu Nguyen: *REPTILE: a Tool for Replay-driven Continual Learning in IIoT*. The 13th International Conference on the Internet of Things (IoT 2023). Conference paper.
