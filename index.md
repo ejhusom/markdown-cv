@@ -149,6 +149,8 @@ Sagar Sen, **Erik Johannes Husom**, Arda Goknil, Simeon Tverdal, Phu Nguyen, Ike
 **Erik Johannes Husom**, Pierre Bernabé, Sagar Sen: *Deep learning to Predict Power Output from Respiratory Inductive Plethysmography Data.* Applied AI Letters. Journal article.
 <!-- **[Deep learning to predict power output from respiratory inductive plethysmography data](https://doi.org/10.1002/ail2.65)**. --> 
 
+<br> 
+
 For a full list of publications, see [erikjohannes.no/work](https://erikjohannes.no/work.html).
 
 <!-- `2021/12` -->
@@ -219,6 +221,8 @@ Erik Johannes Husom, Ketil Stølen. Klassekampen, 31st Oct, 2022
 
 `2023/05`
 [The future of software engineering in the light of LLMs](slides/talk-2023-05-the-future-of-software-engineering.pdf), May 2023
+
+<br> 
 
 For a full list of talks, see [erikjohannes.no/work](https://erikjohannes.no/work.html).
 
