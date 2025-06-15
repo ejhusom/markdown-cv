@@ -196,14 +196,29 @@ Erik Johannes Husom, Ketil Stølen. Klassekampen, 31st Oct, 2022
 
 ## Selected Talks
 
-- [Hvordan få til bærekraftig bruk av KI?](slides/talk-2024-11-14-dnd-ki-baerekraftig.pdf), at the seminar "Sustainable use of AI" by Den norske dataforening, 14th Nov 2024.
-- [KI og ressursforbruk fra et forbrukerperspektiv](slides/talk-2024-09-03-ki-ressursforbruk-forbrukerradet.pdf), talk at Forbrukerrådet, 3rd Sep 2024.
-- [Grønn KI](slides/talk-2024-08-12-arendalsuka-green-ai.pdf), at the event [KI som klimaversting eller reddende engel?](https://program.arendalsuka.no/event/user-view/23542) under Arendalsuka, 12th Aug 2024.
-- [Kunstig intelligens – bare et gode? Etiske utfordringer i møte med ny teknologi](slides/talk-2024-05-30-kunstig-intelligens-og-etikk.pdf), 30th May 2024.
--   [Kunstig intelligens og etikk](slides/talk-2024-03-06-kunstig-intelligens-og-etikk.pdf), 6th March 2024.
--   [Kunstig intelligens – pålitelighet og bærekraft](slides/talk-2024-01-30-green-and-trustworthy-ai.pdf), 30th Jan 2024.
--   [Maskinlæringens klimaavtrykk: Hvordan måles det og hva kan vi bruke målingene til?](slides/talk-2023-09-green-ai-gemini-seminar.pdf), at the seminar ["Bærekraft og maskinlæring – Lar det seg forene?"](https://www.sintef.no/arrangementer-og-kurs/arkiv/2023/barekraft-og-maskinlaring-lar-det-seg-forene/), 21st Sep 2023
--   [The future of software engineering in the light of LLMs](slides/talk-2023-05-the-future-of-software-engineering.pdf), May 2023
+`2024/11`
+[Hvordan få til bærekraftig bruk av KI?](slides/talk-2024-11-14-dnd-ki-baerekraftig.pdf), at the seminar "Sustainable use of AI" by Den norske dataforening, 14th Nov 2024.
+
+`2024/11`
+[KI og ressursforbruk fra et forbrukerperspektiv](slides/talk-2024-09-03-ki-ressursforbruk-forbrukerradet.pdf), talk at Forbrukerrådet, 3rd Sep 2024.
+
+`2024/08`
+[Grønn KI](slides/talk-2024-08-12-arendalsuka-green-ai.pdf), at the event [KI som klimaversting eller reddende engel?](https://program.arendalsuka.no/event/user-view/23542) under Arendalsuka, 12th Aug 2024.
+
+`2024/05`
+[Kunstig intelligens – bare et gode? Etiske utfordringer i møte med ny teknologi](slides/talk-2024-05-30-kunstig-intelligens-og-etikk.pdf), 30th May 2024.
+
+`2024/03`
+[Kunstig intelligens og etikk](slides/talk-2024-03-06-kunstig-intelligens-og-etikk.pdf), 6th March 2024.
+
+`2024/01`
+[Kunstig intelligens – pålitelighet og bærekraft](slides/talk-2024-01-30-green-and-trustworthy-ai.pdf), 30th Jan 2024.
+
+`2023/09`
+[Maskinlæringens klimaavtrykk: Hvordan måles det og hva kan vi bruke målingene til?](slides/talk-2023-09-green-ai-gemini-seminar.pdf), at the seminar ["Bærekraft og maskinlæring – Lar det seg forene?"](https://www.sintef.no/arrangementer-og-kurs/arkiv/2023/barekraft-og-maskinlaring-lar-det-seg-forene/), 21st Sep 2023
+
+`2023/05`
+[The future of software engineering in the light of LLMs](slides/talk-2023-05-the-future-of-software-engineering.pdf), May 2023
 
 For a full list of talks, see [erikjohannes.no/work](https://erikjohannes.no/work.html).
 
