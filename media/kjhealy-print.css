@@ -189,6 +189,14 @@ strong {
 	visibility: hidden;
 }
 
+p code {
+	position: absolute;
+	left: -11%;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	max-width: 10%;
+}
+
 
 
 
